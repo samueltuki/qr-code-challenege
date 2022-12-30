@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap");
 
 .attribution {
-  font-size: 11px;
+  font-size: 15px;
   text-align: center;
-}
-.attribution a {
   color: hsl(228, 45%, 44%);
+  margin: 12px;
 }
+
 
 * {
   margin: 0;
